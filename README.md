@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou @joaodorast
 
 ## Sobre mim
-Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end e back-end modernas para construir aplicações web responsivas e dinâmicas.
+Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end modernas para construir aplicações web responsivas e dinâmicas.
 
 ### 👀 Tenho interesse em
 - Desenvolvimento Front-end
