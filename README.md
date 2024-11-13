@@ -18,16 +18,10 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 - Otimização de performance web
 
 ### 💻 Tecnologias
-- **Frontend:** ![image](https://github.com/user-attachments/assets/cc6efb86-b8d5-4dc1-8cc2-14df63775fff)
-![image](https://github.com/user-attachments/assets/a26877a4-4b39-4dc6-90bd-148d93f95564)
-
-
-, ![image](https://github.com/user-attachments/assets/f0972c9a-fda4-4430-82cd-f76a44635b68)
-, ![image](https://github.com/user-attachments/assets/eba4151b-71b7-4204-a6a4-63189f68d838)
-
-- **Estilização:** Tailwind CSS
-- **Backend:** Node.js
-- **Controle de Versão:** Git
+.Frontend: HTML, CSS, JavaScript, React
+.Estilização: Tailwind CSS
+.Backend: Node.js
+.Controle de Versão: Git  
 
 ### 💞️ Busco colaborar em
 - Projetos open source
