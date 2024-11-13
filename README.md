@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou @joaodorast
 
 ## Sobre mim
-Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end modernas para construir aplicações web responsivas e dinâmicas.
+Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end e back-end modernas para construir aplicações web responsivas e dinâmicas.
 
 ### 👀 Tenho interesse em
 - Desenvolvimento Front-end
@@ -12,22 +12,22 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 
 ### 🌱 Atualmente estou aprendendo
 - Padrões avançados e boas práticas em React
-- Server-side rendering 
+- Server-side rendering com Next.js
 - Soluções de gerenciamento de estado
-- Implementação de APIs
+- Design e implementação de APIs
 - Otimização de performance web
 
 ### 💻 Tecnologias
-.Frontend: HTML, CSS, JavaScript, React
-.Estilização: Tailwind CSS
-.Backend: Node.js
-.Controle de Versão: Git  
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Estilização:** Tailwind CSS
+- **Backend:** Node.js
+- **Controle de Versão:** Git
 
 ### 💞️ Busco colaborar em
 - Projetos open source
 - Aplicações baseadas em React
 - Iniciativas de acessibilidade web
-- Projetos full-stack 
+- Projetos full-stack JavaScript
 
 ### 📫 Como me encontrar
 - [LinkedIn](#) https://www.linkedin.com/in/joao-pedro-santos-e-silva-12b037331/
@@ -36,8 +36,7 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
  
 
 ### ⚡ Curiosidade
- Sou tão apaixonado por basquete quanto por código - e curiosamente, ambos exigem muita prática e dedicação para acertar os arremessos/debugs! 🏀
-
+Sou tão apaixonado por basquete quanto por código - e curiosamente, ambos exigem muita prática e dedicação para acertar os arremessos/debugs! 🏀
 ---
 
 <div align="center">
