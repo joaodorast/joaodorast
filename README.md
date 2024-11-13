@@ -19,7 +19,10 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 
 ### 💻 Tecnologias
 - **Frontend:** ![image](https://github.com/user-attachments/assets/24fc9423-f326-4236-baa6-1463a6b0c86e)
-, CSS, JavaScript, React
+, ![image](https://github.com/user-attachments/assets/07109fe1-761a-4201-90e7-8a7de325e5fd)
+, ![image](https://github.com/user-attachments/assets/f0972c9a-fda4-4430-82cd-f76a44635b68)
+, ![image](https://github.com/user-attachments/assets/eba4151b-71b7-4204-a6a4-63189f68d838)
+
 - **Estilização:** Tailwind CSS
 - **Backend:** Node.js
 - **Controle de Versão:** Git
