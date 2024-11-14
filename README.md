@@ -3,12 +3,12 @@
 ## Sobre mim
 Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end e back-end modernas para construir aplicações web responsivas e dinâmicas.
 
-      ### 👀 Tenho interesse em
-        - Desenvolvimento Front-end
-        - Arquitetura de Aplicações Web
-        - Design de Interface e Experiência do Usuário
-        - Frameworks JavaScript Modernos
-        - Desenvolvimento de sites responsivos e acessíveis
+ ### 👀 Tenho interesse em
+   - Desenvolvimento Front-end
+   - Arquitetura de Aplicações Web
+  - Design de Interface e Experiência do Usuário
+  - Frameworks JavaScript Modernos
+  - Desenvolvimento de sites responsivos e acessíveis
 
 ### 🌱 Atualmente estou aprendendo
 - Padrões avançados e boas práticas em React
