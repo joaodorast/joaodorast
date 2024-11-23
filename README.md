@@ -3,12 +3,12 @@
 ## Sobre mim
 Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end e back-end modernas para construir aplicações web responsivas e dinâmicas.
 
- ### 👀 Tenho interesse em
-   - Desenvolvimento Front-end
-   - Arquitetura de Aplicações Web
-  - Design de Interface e Experiência do Usuário
-  - Frameworks JavaScript Modernos
-  - Desenvolvimento de sites responsivos e acessíveis
+### 👀 Tenho interesse em
+- Desenvolvimento Front-end
+- Arquitetura de Aplicações Web
+- Design de Interface e Experiência do Usuário
+- Frameworks JavaScript Modernos
+- Desenvolvimento de sites responsivos e acessíveis
 
 ### 🌱 Atualmente estou aprendendo
 - Padrões avançados e boas práticas em React
@@ -30,17 +30,16 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 - Projetos full-stack JavaScript
 
 ### 📫 Como me encontrar
-- [LinkedIn](#) https://www.linkedin.com/in/joao-pedro-santos-e-silva-12b037331/
-- [Email](#) joaopedrosantosesilva13@gmail.com
-
- 
+- [LinkedIn](https://www.linkedin.com/in/joao-pedro-santos-e-silva-12b037331/)
+- [Email](mailto:joaopedrosantosesilva13@gmail.com)
 
 ### ⚡ Curiosidade
 Sou tão apaixonado por basquete quanto por código - e curiosamente, ambos exigem muita prática e dedicação para acertar os arremessos/debugs! 🏀
+
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodorast&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </div>
 
-   https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif
+![Sobre Mim](https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif)
