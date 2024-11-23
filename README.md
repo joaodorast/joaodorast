@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou @joaodorast
 
 ## Sobre mim
-Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me especializo em tecnologias front-end e back-end modernas para construir aplicações web responsivas e dinâmicas.
+Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis, especializado em tecnologias front-end e back-end para construir aplicações web responsivas e dinâmicas.
 
 ### 👀 Tenho interesse em
 - Desenvolvimento Front-end
@@ -18,10 +18,11 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 - Otimização de performance web
 
 ### 💻 Tecnologias
-- **Frontend:**
-  - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
-  - ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
-  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+**Frontend:** 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
+
 - **Estilização:** Tailwind CSS
 - **Backend:** Node.js
 - **Controle de Versão:** Git
