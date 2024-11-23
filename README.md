@@ -18,7 +18,10 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis. Me
 - Otimização de performance web
 
 ### 💻 Tecnologias
-- **Frontend:** HTML, CSS, Javascript
+- **Frontend:**
+  - ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+  - ![CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
+  - ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
 - **Estilização:** Tailwind CSS
 - **Backend:** Node.js
 - **Controle de Versão:** Git
