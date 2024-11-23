@@ -42,3 +42,5 @@ Sou tão apaixonado por basquete quanto por código - e curiosamente, ambos exig
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodorast&layout=compact&theme=dark" alt="Linguagens Mais Usadas" />
 </div>
+
+   https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif
