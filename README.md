@@ -39,7 +39,7 @@ Sou Desenvolvedor Web apaixonado por criar experiências digitais incríveis, es
 
 ### 📫 Como me encontrar
 - [LinkedIn] https://www.linkedin.com/in/jo%C3%A3o-pedro-santos-e-silva-12b037331/
-- [Email](joaopedrosantosesilva13@gmail.com)
+- joaopedrosantosesilva13@gmail.com
 
 ### ⚡ Curiosidade
 Sou tão apaixonado por basquete quanto por código - e curiosamente, ambos exigem muita prática e dedicação para acertar os arremessos/debugs! 🏀
