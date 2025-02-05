@@ -23,7 +23,6 @@ Atualmente, estou me aprofundando nos seguintes tópicos:
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000)
-![image](https://github.com/user-attachments/assets/88dea665-3341-4f05-818b-91418a9857ab)
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=ffffff)
