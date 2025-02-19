@@ -1,8 +1,6 @@
 # Olá, eu sou João Pedro! 👋
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me Banner" width="100%"/>
-</div>
+
 
 ## 💫 Sobre Mim
 Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais excepcionais, com forte especialização em tecnologias front-end. Minha missão é construir aplicações web que não apenas funcionem perfeitamente, mas também encantem os usuários através de interfaces intuitivas e experiências fluidas.
