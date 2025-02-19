@@ -78,6 +78,3 @@ Quando não estou codando, você pode me encontrar nas quadras de basquete! Acre
 
 ---
 
-<div align="center">
-  <i>"Transformando linhas de código em experiências memoráveis, um componente por vez."</i>
-</div>
