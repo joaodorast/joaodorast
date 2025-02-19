@@ -5,7 +5,7 @@
 </div>
 
 ## 💫 Sobre Mim
-Sou um **Desenvolvedor Full Stack** apaixonado por criar experiências digitais excepcionais, com forte especialização em tecnologias front-end. Minha missão é construir aplicações web que não apenas funcionem perfeitamente, mas também encantem os usuários através de interfaces intuitivas e experiências fluidas.
+Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais excepcionais, com forte especialização em tecnologias front-end. Minha missão é construir aplicações web que não apenas funcionem perfeitamente, mas também encantem os usuários através de interfaces intuitivas e experiências fluidas.
 
 ## 🚀 Especialidades
 - Desenvolvimento de aplicações web escaláveis
@@ -53,11 +53,11 @@ Sou um **Desenvolvedor Full Stack** apaixonado por criar experiências digitais 
 
 ## 📚 Atualmente Estudando
 - Arquitetura de Microsserviços
-- WebAssembly
-- Web3 e Blockchain
+-   Web3 e Blockchain
 - Práticas avançadas de DevOps
 - Computação serverless
 - Desenvolvimento mobile com React Native
+
 
 ## 🤝 Procuro Colaborar em
 - Projetos open source inovadores
