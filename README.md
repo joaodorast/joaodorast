@@ -78,6 +78,3 @@ Quando não estou codando, você pode me encontrar nas quadras de basquete! Acre
 
 ---
 
-<div align="center">
-  <i>"O código é como arte - deve ser elegante, eficiente e trazer valor para quem o utiliza."</i>
-</div>
