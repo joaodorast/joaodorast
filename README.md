@@ -1,13 +1,15 @@
 # Olá, eu sou João Pedro! 👋
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" alt="About Me Banner" width="100%"/>
+</div>
 
 ## 💫 Sobre Mim
-Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais excepcionais, com forte especialização em tecnologias front-end. Minha missão é construir aplicações web que não apenas funcionem perfeitamente, mas também encantem os usuários através de interfaces intuitivas e experiências fluidas.
+Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais excepcionais e interfaces que encantam. Minha missão é transformar conceitos criativos em aplicações web intuitivas e de alta performance, sempre focando na melhor experiência do usuário. Com uma sólida base em desenvolvimento web moderno, busco constantemente aprender e aplicar as mais recentes tecnologias e melhores práticas do mercado.
 
 ## 🚀 Especialidades
-- Desenvolvimento de aplicações web escaláveis
-- Arquitetura de software moderna
+- Desenvolvimento de interfaces modernas e responsivas
+- Arquitetura frontend robusta e escalável
 - UI/UX Design
 - Performance e otimização
 - Desenvolvimento mobile-first
@@ -36,11 +38,10 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais ex
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ### 🗄️ Banco de Dados
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🔧 Ferramentas & DevOps
@@ -50,19 +51,20 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais ex
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ## 📚 Atualmente Estudando
-- Arquitetura de Microsserviços
--   Web3 e Blockchain
-- Práticas avançadas de DevOps
-- Computação serverless
-- Desenvolvimento mobile com React Native
-
+- Arquitetura avançada de componentes React
+- Padrões de design em TypeScript
+- State Management com Zustand e Jotai
+- Animações avançadas com Framer Motion
+- Micro-frontends e Module Federation
+- Performance e otimização de renderização
+- Testing Library e Cypress para testes E2E
 
 ## 🤝 Procuro Colaborar em
 - Projetos open source inovadores
-- Aplicações full-stack escaláveis
+- Aplicações frontend de larga escala
+- Bibliotecas de componentes React
 - Iniciativas de acessibilidade web
-- Soluções de alta performance
-- Ferramentas para desenvolvedores
+- Frameworks e ferramentas frontend
 
 ## 📫 Como me Encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-pedro-santos-e-silva-12b037331/)
@@ -70,7 +72,7 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais ex
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodorast)
 
 ## 🏀 Fora do Código
-Quando não estou codando, você pode me encontrar nas quadras de basquete! Acredito que tanto o esporte quanto a programação compartilham valores fundamentais: prática constante, trabalho em equipe e a busca contínua pela excelência. Assim como cada jogada no basquete precisa ser pensada estrategicamente, cada linha de código precisa ser escrita com propósito.
+Quando não estou codando, você pode me encontrar nas quadras de basquete! Acredito que tanto o esporte quanto a programação compartilham valores fundamentais: prática constante, trabalho em equipe e a busca contínua pela excelência. Assim como cada jogada no basquete precisa ser pensada estrategicamente, cada componente que desenvolvo precisa ser planejado com cuidado e precisão.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodorast&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
@@ -78,3 +80,6 @@ Quando não estou codando, você pode me encontrar nas quadras de basquete! Acre
 
 ---
 
+<div align="center">
+  <i>"Transformando linhas de código em experiências memoráveis, um componente por vez."</i>
+</div>
