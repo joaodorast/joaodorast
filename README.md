@@ -8,9 +8,7 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais ex
 ## 🚀 Especialidades
 - Desenvolvimento de interfaces modernas e responsivas
 - Arquitetura frontend robusta e escalável
-- UI/UX Design
 - Performance e otimização
-- Desenvolvimento mobile-first
 - Acessibilidade web
 
 ## 🛠️ Stack Tecnológico
