@@ -66,9 +66,6 @@ Sou um **Desenvolvedor Frontend** apaixonado por criar experiências digitais ex
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedrosantosesilva13@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaodorast)
 
-## 🏀 Fora do Código
-Quando não estou codando, você pode me encontrar nas quadras de basquete! Acredito que tanto o esporte quanto a programação compartilham valores fundamentais: prática constante, trabalho em equipe e a busca contínua pela excelência. Assim como cada jogada no basquete precisa ser pensada estrategicamente, cada componente que desenvolvo precisa ser planejado com cuidado e precisão.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodorast&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
 </div>
