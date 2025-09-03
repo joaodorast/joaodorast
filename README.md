@@ -1,7 +1,7 @@
 # Olá, eu sou João Pedro! 👋
 
 ## 💫 Sobre Mim
-Sou um **Desenvolvedor Full Stack** apaixonado por criar experiências digitais excepcionais e interfaces que encantam. Minha missão é transformar conceitos criativos em aplicações web e mobile intuitivas e de alta performance, sempre focando na melhor experiência do usuário. Com uma sólida base em desenvolvimento web moderno, busco constantemente aprender e aplicar as mais recentes tecnologias e melhores práticas do mercado.
+Sou desenvolvedor full stack, trabalho criando aplicações web e mobile do zero até a entrega final. Gosto de transformar ideias em projetos funcionais, bem feitos e fáceis de usar. Tenho experiência com tecnologias modernas e estou sempre aprendendo coisas novas pra melhorar a qualidade do que desenvolvo.
 
 ## 🚀 Especialidades
 - Desenvolvimento de interfaces modernas e responsivas
