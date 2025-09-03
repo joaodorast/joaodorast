@@ -1,7 +1,7 @@
 # Olá, eu sou João Pedro! 👋
 
 ## 💫 Sobre Mim
-Sou desenvolvedor full stack, trabalho criando aplicações web e mobile do zero até a entrega final. Gosto de transformar ideias em projetos funcionais, bem feitos e fáceis de usar. Tenho experiência com tecnologias modernas e estou sempre aprendendo coisas novas pra melhorar a qualidade do que desenvolvo.
+Sou desenvolvedor **full stack**. Crio aplicações web e mobile do zero até a entrega final, sempre buscando que sejam funcionais, bem feitas e fáceis de usar. Trabalho com tecnologias modernas e estou sempre aprendendo coisas novas para melhorar a qualidade do que desenvolvo.
 
 ## 🚀 Especialidades
 - Desenvolvimento de interfaces modernas e responsivas
@@ -75,5 +75,3 @@ Sou desenvolvedor full stack, trabalho criando aplicações web e mobile do zero
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodorast&layout=compact&theme=dracula" alt="Linguagens Mais Usadas"/>
 </div>
-
----
